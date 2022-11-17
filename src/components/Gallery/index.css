@@ -1,0 +1,12 @@
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 55px;
+  align-items: flex-start;
+}
+
+.image-size {
+  height: 65vh;
+}

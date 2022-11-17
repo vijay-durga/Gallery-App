@@ -1,0 +1,22 @@
+.image-thumb {
+  margin-right: 0px;
+}
+
+.thumbnail-li {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin-top: auto;
+}
+
+.btn {
+  border-style: none;
+}
+
+.active {
+  opacity: 1;
+}
+
+.btn-thumb {
+  opacity: 0.5;
+}
